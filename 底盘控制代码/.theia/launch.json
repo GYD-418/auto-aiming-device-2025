@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "TMX_MSPM0G3507_ProjectTemplate",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "TMX_MSPM0G3507_ProjectTemplate",
+                "resourceId": "/TMX_MSPM0G3507_ProjectTemplate"
+            }
+        }
+    ]
+}
